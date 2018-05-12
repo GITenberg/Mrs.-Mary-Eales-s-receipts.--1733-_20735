@@ -1,0 +1,26 @@
+_repo: Mrs.-Mary-Eales-s-receipts.--1733-_20735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eales, Mary
+    gutenberg_agent_id: '9497'
+    url: http://www.gutenberg.org/2009/agents/9497
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2007-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confectionery -- Early works to 1800'
+- !lcc 'TX'
+- !lcsh 'Pastry -- Early works to 1800'
+title: Mrs. Mary Eales's receipts. (1733)
+url: http://www.gutenberg.org/ebooks/20735
